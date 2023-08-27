@@ -1,0 +1,59 @@
+.first{
+    margin-left: -983px;
+    margin-top:-216px;
+    width: 185px;
+    min-height: 100px;
+    background-image: url("./image/resultimage.jpeg");
+    border-radius: 10px;
+      
+}
+.second{
+    margin-left: -790px;
+    margin-top: -380px;
+    font-size: 20px;
+    width: 185px;
+    min-height: 100px;
+    background-image: url("./image/resultimage.jpeg");
+    border-radius: 10px;
+}
+.third{
+    margin-left: -596px;
+    margin-top: -380px;
+    width: 185px;
+    min-height: 100px;
+    background-image: url("./image/resultimage.jpeg");
+    border-radius: 10px;
+}
+.fourth{
+    margin-left: -403px;
+    margin-top: -380px;
+    width: 185px;
+    min-height: 100px;
+    background-image: url("./image/resultimage.jpeg");
+    border-radius: 10px;
+}
+
+.five{
+    margin-left: -210px;
+    margin-top: -380px;
+    width: 185px;
+    min-height: 100px;
+    background-image: url("./image/resultimage.jpeg");
+    border-radius: 10px;
+}
+#com{
+    color:black;
+    border-width: 20px;
+    font-size: 23px;
+    font-style: italic;
+    margin-left: 25px;
+
+  }
+  .img1{
+    width: 100px;
+    height: 100px;
+    margin-left: 42px;
+  }
+  #errorpage{
+    color:red;
+  }
