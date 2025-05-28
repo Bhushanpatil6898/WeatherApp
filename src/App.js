@@ -57,7 +57,7 @@ function App() {
         
         <div className="inputsearch">
       
-        <h1 className="heading">Weather App</h1>
+        <h1 className="heading">Globeweather App</h1>
         <input type="text" 
             value={inputCity}
             onChange={handleChangeInput} id="N"onKeyUp={validname}placeholder="Enter the City Name" />
